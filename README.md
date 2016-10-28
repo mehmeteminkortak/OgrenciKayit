@@ -1,0 +1,2 @@
+# OgrenciKayit
+Öğrenci Kayıt Otomasyonu
